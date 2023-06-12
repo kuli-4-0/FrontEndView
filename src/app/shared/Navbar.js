@@ -36,11 +36,11 @@ class Navbar extends Component {
               <Dropdown alignRight>
                 <Dropdown.Toggle className="nav-link">
                   <div className="nav-profile-img">
-                    <img src={require("../../assets/images/faces/face1.jpg")} alt="user"/>
+                    <img src={require("../../assets/images/faces/admin.jpeg")} alt="user"/>
                     <span className="availability-status online"></span>
                   </div>
                   <div className="nav-profile-text">
-                    <p className="mb-1 text-black"><Trans>David Greymaax</Trans></p>
+                    <p className="mb-1 text-black"><Trans>Administrator</Trans></p>
                   </div>
                 </Dropdown.Toggle>
 

@@ -167,7 +167,7 @@ export class Dashboard extends Component {
         </div>
         <div className="row">
           <div className="col-md-4 stretch-card grid-margin">
-            <div className="card bg-gradient-danger card-img-holder text-white">
+            <div className="card bg-gradient-primary card-img-holder text-white">
               <div className="card-body">
                 <img src={require("../../assets/images/dashboard/circle.svg")} className="card-img-absolute" alt="circle" />
                 <h4 className="font-weight-normal mb-3">Popular Event<i className="mdi mdi-chart-line mdi-24px float-right"></i>
@@ -177,7 +177,7 @@ export class Dashboard extends Component {
             </div>
           </div>
           <div className="col-md-4 stretch-card grid-margin">
-            <div className="card bg-gradient-info card-img-holder text-white">
+            <div className="card bg-gradient-primary card-img-holder text-white">
               <div className="card-body">
                 <img src={require("../../assets/images/dashboard/circle.svg")} className="card-img-absolute" alt="circle" />
                 <h4 className="font-weight-normal mb-3">Popular Musician <i className="mdi mdi-bookmark-outline mdi-24px float-right"></i>
@@ -187,7 +187,7 @@ export class Dashboard extends Component {
             </div>
           </div>
           <div className="col-md-4 stretch-card grid-margin">
-            <div className="card bg-gradient-success card-img-holder text-white">
+            <div className="card bg-gradient-primary card-img-holder text-white">
               <div className="card-body">
                 <img src={require("../../assets/images/dashboard/circle.svg")} className="card-img-absolute" alt="circle" />
                 <h4 className="font-weight-normal mb-3">Popular EO<i className="mdi mdi-diamond mdi-24px float-right"></i>
